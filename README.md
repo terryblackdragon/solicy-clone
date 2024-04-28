@@ -49,6 +49,55 @@ I have rich experience in these fields. I am working in these fields for 12 year
 For why, I believe myself to be the best candidate and a great asset to your project. 
 My profile, portfolio and work history are also attached herewith for your kind consideration that will help you recognize my skill.
 
+My previous works are as follow
+--------------------------------------------------
+http://metachi.com/ (Java + Angular.js)
+https://www.stylemepretty.com/ (Java + React.js)
+
+https://royalmovingco.com (Python + Django)
+https://training.voidsolution.com/ (Django)
+https://www.thelmandlouise.com (Django)
+https://www.tacolicious.com (Python + Django + React)
+
+https://www.tacolicious.com/      (Python + Django + React)
+Https://www.mapiful.com/ (Wordpress + Woocommerce + React + styled-components)
+https://www.stylemepretty.com/ (Java + React.js)
+https://takecareof.com/ (Node.js + React.js + Next.js + styled-components)
+
+https://laracasts.com (Laravel + Vue.js)
+https://www.vape-tube.com/ (Laravel + Node.js + Socket.io)
+https://textilestate.com/ (Laravel + Vue.js)
+
+https://takecareof.com/ (Node.js + React.js + Next.js + styled-components)
+https://www.vape-tube.com/ (Laravel + Node.js + Socket.io)
+
+http://kangaroom.net/ (Angular.js + ASP.NET)
+https://shopboxfox.com (Shopify + Angular.js)
+
+https://spectruss.com/(Wordpress + MailChimp)
+https://nouba.com.au/ (Wordpress + MailChimp)
+
+https://www.angelcurves.com (Shopify + MailChimp)
+https://myacollection.com
+https://bodyshaperslifestyle.myshopify.com
+https://heatfreehair.com/ (Shopify + Vue.js)
+
+
+https://www.wisboroughgreen.org/ (Wordpress + WooCommerce)
+https://coloradocoyotes.com/ (Wordpress + WooCommerce)
+https://valkyrieairsoftevents.com/ (Wordpress + WooCommerce)
+https://topresto.lu/ (Wordpress + WooCommerce + Vue.js)
+https://kimcheeguesthouse.com/ (Wordpress + WooCommerce + MailChimp)
+
+Blockchain
+https://cheecoin.io
+https://app.rubicon.finance/trade
+
+
+NFT
+https://treasureland.market/
+https://nft.moonstartoken.com/
+
 * Firewall and IDS
 - iptables, snort
 
