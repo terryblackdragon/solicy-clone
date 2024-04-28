@@ -4,7 +4,7 @@ This project is forking of solicy.net
 Author: Terry BlackDragon
 Branch: Main
 url: https://github.com/trajcheandonov/solicy-clone/
-skilled: Linux
+Skills: C#, java, Python, Golang, Rust, Node.js, PHP, React.js, Angular, Electron.js, Blockchain, Solidity, Web3.js, Solana
 Development Year: 10 years
 Address: Braka Miladinovi, Raovis, Macedonia
 Phone: +389 71 749 441
