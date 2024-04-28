@@ -28,3 +28,15 @@ I have rich experience in these fields. I am working in these fields for 12 year
 - Node.js / Express.js / Nest.js
 - SQL/NoSQL /MongoDB / Oracle / DB2
 - Flutter, React Native, Android, Swift
+
+* Front-End & Framework
+- Angular.js, Vue.js 2.0, React-Redux, next js, electron js, web3 js
+- HTML5 / CSS3 / Bootstrap / jQuery / Ajax
+- WordPress / Magento / Prestashop / Opencart / Shopify/Moodle/Drupal
+
+* DevOpss
+ - AWS, GCP, Azure
+ - Jira, Docker, Kubernetes, Jenkins
+
+* Firewall and IDS
+- iptables, snort
