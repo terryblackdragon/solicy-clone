@@ -10,3 +10,14 @@ Address: Braka Miladinovi, Raovis, Macedonia
 Phone: +389 71 749 441
 Availability: More than 30 hours a week
 English level: Fluent
+
+[My Proposal]
+
+In response to your latest job posting I am here to apply for the post of Developer position. 
+I have an excellent background as a Developer along with my academic education in Computer Science and Technology. 
+The experience and my academic education have provided me with some outstanding and technical skills.
+I firmly believe that these qualities make me different from the rest of the contestants
+I am a lead developer and have a team which is consists of 7 members, 3 are senior developers.
+My team has completed 30+ projects
+Personally I am a senior back-end developer & blockchain Expert and started to learn C/C++ since 12 years old.
+I have rich experience in these fields. I am working in these fields for 12 years, so I have enough confidence in this project.
