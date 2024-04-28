@@ -38,6 +38,17 @@ I have rich experience in these fields. I am working in these fields for 12 year
  - AWS, GCP, Azure
  - Jira, Docker, Kubernetes, Jenkins
 
+*Blockchain and Cryptography Expert
+-Rust/Solidity/Solana/Web3.js
+
+*Data Analysis
+-Data Mining/Big Data Processing
+-Apache Hadoop/Apache Spark
+-MongoDB
+
+For why, I believe myself to be the best candidate and a great asset to your project. 
+My profile, portfolio and work history are also attached herewith for your kind consideration that will help you recognize my skill.
+
 * Firewall and IDS
 - iptables, snort
 
