@@ -21,3 +21,10 @@ I am a lead developer and have a team which is consists of 7 members, 3 are seni
 My team has completed 30+ projects
 Personally I am a senior back-end developer & blockchain Expert and started to learn C/C++ since 12 years old.
 I have rich experience in these fields. I am working in these fields for 12 years, so I have enough confidence in this project.
+
+* Skills
+* Back-End
+- C/C++/C#/Java/Go/Rust/Python/PHP/Ruby
+- Node.js / Express.js / Nest.js
+- SQL/NoSQL /MongoDB / Oracle / DB2
+- Flutter, React Native, Android, Swift
